@@ -29,4 +29,4 @@ potentially leading to full compromise of the affected host.
 ## Disclosure
 - **Status:** Under responsible disclosure  
 - **Disclosure Date:** 24 August 2025  
-- **Reporter:** [Your Handle]
+- **Reporter:** Manopakorn Kooharueangrong (Whyshealwaysbrokeme)
