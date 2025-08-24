@@ -15,7 +15,6 @@ is used with untrusted YAML input.
 - `report/poc.py` - Proof of Concept
 - `report/poc.png` - Screenshot of PoC
 - `report/output.png` - Execution result
-- `report/advisory.pdf` - PDF version
 
 ## Disclosure
 - Status: Under responsible disclosure
