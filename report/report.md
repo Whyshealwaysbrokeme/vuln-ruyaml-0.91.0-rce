@@ -74,8 +74,7 @@ Steps to reproduce:
 ```
 
 ## Proof of Concept (PoC)
-PoC Script:  
-[View poc.py](https://github.com/Whyshealwaysbrokeme/vuln-ruyaml-0.91.0-rce/blob/main/report/poc.py)
+PoC Script:  [View poc.py](https://github.com/Whyshealwaysbrokeme/vuln-ruyaml-0.91.0-rce/blob/main/report/poc.py)
 
 PoC Screenshot:  
 ![PoC Screenshot](https://github.com/Whyshealwaysbrokeme/vuln-ruyaml-0.91.0-rce/blob/main/report/poc.png)
